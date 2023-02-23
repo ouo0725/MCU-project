@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Innovative Project Proposal
-author: [Richard Kuo]
+author: [賴建宇]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
 
 This homework is to propose an innovative project and describe the key features, list all Design Considerations and the required technologies, then draw the System Block Diagram.
-
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/1S4xFl4CD34" title="The Red Sun in the Sky - HQ (天上太阳红彤彤)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ---
 ## Homework Report Format
 **Contents:**<br>
@@ -44,7 +44,7 @@ This homework is to propose an innovative project and describe the key features,
 
 ---
 ## Market Analysis (市場分析)
-![](https://blog.hubspot.com/hs-fs/hubfs/tam-sam-som.png?width=1200&name=tam-sam-som.png)
+![](https://github.com/ouo0725/MCU-project/blob/main/images/223.jpg?raw=true)
 
 ### TAM of Future Home Products
 The Target Market size (TAM) of Future Home Products is the number of household.<br>
