@@ -17,9 +17,9 @@ This homework is to propose an innovative project and describe the key features,
   - List all design considerations and the required technologies
 * **系統方塊圖**
   - Draw a System Block Diagram
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/1S4xFl4CD34" title="The Red Sun in the Sky - HQ (天上太阳红彤彤)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/SYwrYdKOk50" title="【震撼】5G，6G，7G，8G，愛無所不在 | 老高與小茉 Mr &amp; Mrs Gao" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ---
-## 家用社會信用機器人
+## 5G
 
 ### 應用功能說明
 1. 操作廚具：咖啡機＋果汁機＋烤麵包機＋微波爐+烤箱+氣炸鍋
