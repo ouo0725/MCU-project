@@ -21,13 +21,13 @@ This homework is to propose an innovative project and describe the key features,
   - 聯網方式:WiFi
 * **系統方塊圖**
 
-![][https://github.com/ouo0725/MCU-project/blob/main/images/S__4071427.jpg?raw=true]
+![](https://github.com/ouo0725/MCU-project/blob/main/images/S__4071427.jpg?raw=true)
 
 
 <iframe width="703" height="480" src="https://www.youtube.com/embed/oYqmmzrvTr8" title="MHD重負荷 機械手臂第七軸運用 機械手臂滑軌 重負荷滑軌  滾輪滑軌 Heavey Load 翔盛精密 SOARTECH HEPCO台灣" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ---
 ## Market Analysis (市場分析)
-![][https://github.com/ouo0725/MCU-project/blob/main/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-03-12%20190956.png?raw=true]
+![](https://github.com/ouo0725/MCU-project/blob/main/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-03-12%20190956.png?raw=true)
 
 ### TAM of Future Home Products
 The Target Market size (TAM) of Future Home Products is the number of household.<br>
