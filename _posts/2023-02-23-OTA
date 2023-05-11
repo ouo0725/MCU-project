@@ -6,16 +6,14 @@ category: [Lecture]
 tags: [jekyll, ai]
 ---
 ## Homework Report Format
-**藍芽遙控機器人:**<br>
+**OTA實作:**<br>
 * **應用與功能說明**<br>
 * **設計考量與所需相關技術**
   - 操作方式:從網頁上上傳程式碼
   - 供電方式:電腦USB
   - 聯網方式:WiFi或個人熱點
 * **系統方塊圖**<br>
-
 ![](https://github.com/ouo0725/MCU-project/blob/main/images/4EEBBF0A-0434-4CC9-9AC7-54F26EA90251.jpg?raw=true)
-
 * **實際操作**
 * **程式碼**<br>
 *This site was last updated {{ site.time | date: "%B %d, %Y" }}.*
