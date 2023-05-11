@@ -1,0 +1,25 @@
+---
+layout: post
+title: OTA-over the air
+author: [賴建宇]
+category: [Lecture]
+tags: [jekyll, ai]
+---
+
+## Homework Report Format
+**OTA:**<br>
+* **應用與功能說明**<br>
+* **設計考量與所需相關技術**
+  - 操作方式:在介面上上傳程式碼。
+  - 供電方式:電腦USB接口
+  - 聯網方式:手機行動熱點
+* **系統方塊圖**<br>
+
+![](https://github.com/ouo0725/MCU-project/blob/main/images/4EEBBF0A-0434-4CC9-9AC7-54F26EA90251.jpg?raw=true)
+
+* **實際操作**
+* **程式碼**<br>
+
+*This site was last updated {{ site.time | date: "%B %d, %Y" }}.*
+
+
