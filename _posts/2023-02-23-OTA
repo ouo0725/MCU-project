@@ -16,12 +16,7 @@ tags: [jekyll, ai]
   - 供電方式:電腦USB
   - 聯網方式:WiFi或行動熱點
 * **系統方塊圖**<br>
-
 ![](https://github.com/ouo0725/MCU-project/blob/main/images/4EEBBF0A-0434-4CC9-9AC7-54F26EA90251.jpg?raw=true)
-
-* **實際操作**
-
-* **程式碼**<br>
 ---
 *This site was last updated {{ site.time | date: "%B %d, %Y" }}.*
 
