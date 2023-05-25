@@ -307,7 +307,7 @@ void loop() {
      Serial.println(httpCode);   //Print HTTP return code
      Serial.println(payload);    //Print request response payload
 
-     http.end();  //Close connection
+     http.end();  //Close connection 
  
    }else{
       Serial.println("Error in WiFi connection");   
