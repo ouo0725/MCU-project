@@ -1,6 +1,6 @@
---- 
+---
 layout: post
-title:IoT Thinkspeak.com
+title: Heartbeat Oxygen Detector-心跳血氧偵測器
 author: [賴建宇]
 category: [Lecture]
 tags: [jekyll, ai]
@@ -24,8 +24,6 @@ tags: [jekyll, ai]
 
 <iframe width="473" height="840" src="https://www.youtube.com/embed/SDXN8wvpgIc" title="心跳血氧" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 * **程式碼**<br>
-
-```
 
 ---
 *This site was last updated {{ site.time | date: "%B %d, %Y" }}.*
