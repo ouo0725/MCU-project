@@ -6,24 +6,18 @@ category: [Lecture]
 tags: [jekyll, ai]
 ---
 ## Homework Report Format
-**IMU-Inertial Measurement Unit**<br>
+**PID 遙控小車**<br>
 * **應用與功能說明**<br>
-  - 將空氣中的數據透過開發版傳送到Thingspeak物聯網網站
+  - 等待更新
 * **設計考量與所需相關技術**
-  - 操作方式:透過Arduino燒錄程式
+  - 操作方式:等待更新
   - 供電方式:電腦USB
   - 連線方式:WiFi或行動熱點
 * **系統方塊圖**<br>
 
-![](https://github.com/ouo0725/MCU-project/blob/main/images/1A360CA9-1AD6-4FC2-830E-BFF9AF8E75AE.jpg?raw=true)
-
+等待更新
 * **實際操作**<br>
-![](https://github.com/ouo0725/MCU-project/blob/main/images/S__105578501.jpg?raw=true)
-![](https://github.com/ouo0725/MCU-project/blob/main/images/S__105578503.jpg?raw=true)
-
-<iframe width="997" height="561" src="https://www.youtube.com/embed/3ULOz2LzMw4" title="6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<iframe width="365" height="650" src="https://www.youtube.com/embed/tS6ctpU4K7I" title="2023年5月25日" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>.
+等待更新
 * **程式碼**<br>
 
 ```
