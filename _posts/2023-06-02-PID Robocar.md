@@ -38,6 +38,8 @@ tags: [jekyll, ai]
 
 <iframe width="365" height="650" src="https://www.youtube.com/embed/b1AzkakRuUk" title="2023年6月4日" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<iframe width="365" height="650" src="https://www.youtube.com/embed/hAifEgHTZS8" title="2023年6月4日" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <iframe width="365" height="650" src="https://www.youtube.com/embed/_qStj0ZPaX8" title="我幹你娘張承翰，我在睡覺你在那邊吵" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
