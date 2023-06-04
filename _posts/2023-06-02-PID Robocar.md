@@ -20,7 +20,7 @@ tags: [jekyll, ai]
 
 * **系統方塊圖**<br>
 
-等待更新
+![](https://github.com/ouo0725/MCU-project/blob/main/images/1DF15DF4-2083-49D2-99F6-6B9E4A78B5DB.jpg?raw=true)
 
 * **實作照片**<br>
 
