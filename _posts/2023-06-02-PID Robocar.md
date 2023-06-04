@@ -33,7 +33,7 @@ tags: [jekyll, ai]
 <iframe width="365" height="650" src="https://www.youtube.com/embed/4tvbFpI4C40" title="2023年6月4日" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 * **實際操作**<br>
-* 
+
 <iframe width="365" height="650" src="https://www.youtube.com/embed/9uHduNI7L98" title="2023年6月4日" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="365" height="650" src="https://www.youtube.com/embed/b1AzkakRuUk" title="2023年6月4日" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
